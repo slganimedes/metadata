@@ -1,0 +1,19 @@
+{
+    "name": "Blockchain Advanced - Knowledge Certificate",
+    "description": "This certificate proves that the student has passed the level test corresponding to the 10-hour Blockchain Advanced course.",
+    "image":"https://ipfs.io/ipfs/QmQtrzp4qTeXNNr4hWsLUVit5y5UpbzitZ6zdjT4uyGxoZ",
+	"attributes": [ 
+		{
+			"trait_type":"Cohort",
+			"value":"Blue Lake"
+		},
+		{
+			"trait_type":"Course",
+			"value":"Blockchain Advanced - Online"
+		},
+		{
+			"trait_type":"Duration",
+			"value":"10 hours"
+		}
+	]
+  }
