@@ -1,5 +1,19 @@
 {
-    "name": "Nina mirando el universo",
-    "description": "Una niña rubia admirando el cielo lleno de estrellas",
-    "image": "https://github.com/slganimedes/metadata/raw/main/N3.png"
-}
+    "name": "Blockchain Advanced - Knowledge Certificate",
+    "description": "This certificate proves that the student has passed the level test corresponding to the 10-hour Blockchain Advanced course.",
+    "image":"https://ipfs.io/ipfs/Qmah9nY5mR4SBAZtHz5W5wc2jwvsJErRHWg5hckf9dui3S",
+	"attributes": [ 
+		{
+			"trait_type":"Cohort",
+			"value":"Artica ES"
+		},
+		{
+			"trait_type":"Course",
+			"value":"Blockchain Advanced - Online"
+		},
+		{
+			"trait_type":"Duration",
+			"value":"10 hours"
+		}
+	]
+  }
