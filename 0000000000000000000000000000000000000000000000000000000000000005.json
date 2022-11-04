@@ -1,0 +1,24 @@
+{
+    "name": "Talavera",
+    "description": "Este NFT hace honor a la cerámica de estilo Talavera típica de los estados de Tlaxcala y Puebla, Mexico. This NFT honours the Talavera style pottery typical of the states of Tlaxcala and Puebla, Mexico. ",
+    "image":"https://github.com/slganimedes/metadata/raw/main/NFT90MX/Talavera.png",
+	"attributes": [ 
+		{
+			"trait_type":"Edition",
+			"value":"90th Aniversary"
+		},
+		{
+			"trait_type":"Type",
+			"value":"Ascender"
+		},
+		{
+			"trait_type": "Level", 
+			"value": 1
+		}, 
+		{
+			"display_type": "number", 
+			"trait_type": "Generation", 
+			"value": 1
+		}
+	]
+  }
